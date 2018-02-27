@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/kemans.dir/src/main.cpp.o CMakeFiles/kemans.dir/src/kmeans.cpp.o  -o kemans -rdynamic 

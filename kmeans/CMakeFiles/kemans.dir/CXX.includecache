@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/idriver/study/kmeans/src/kmeans.cpp
+kmeans.h
+/home/idriver/study/kmeans/src/kmeans.h
+
+/home/idriver/study/kmeans/src/kmeans.h
+iostream
+-
+vector
+-
+map
+-
+cstdlib
+-
+algorithm
+-
+fstream
+-
+string.h
+-
+string
+-
+time.h
+-
+limits.h
+-
+
+/home/idriver/study/kmeans/src/main.cpp
+kmeans.h
+/home/idriver/study/kmeans/src/kmeans.h
+
