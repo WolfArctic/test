@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/idriver/study/LRegression/src/LMatrix.h
+
+/home/idriver/study/LRegression/src/LRegression.cpp
+LRegression.h
+/home/idriver/study/LRegression/src/LRegression.h
+
+/home/idriver/study/LRegression/src/LRegression.h
+iostream
+-
+stdio.h
+-
+cmath
+-
+LMatrix.h
+/home/idriver/study/LRegression/src/LMatrix.h
+
+/home/idriver/study/LRegression/src/main.cpp
+LRegression.h
+/home/idriver/study/LRegression/src/LRegression.h
+
