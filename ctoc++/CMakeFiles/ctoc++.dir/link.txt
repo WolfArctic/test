@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/ctoc++.dir/src/main.cpp.o CMakeFiles/ctoc++.dir/src/test.cpp.o  -o ctoc++ -rdynamic 
