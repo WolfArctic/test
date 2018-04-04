@@ -1,0 +1,17 @@
+ssh-keygen -t rsa -C "email"
+测试是否成功 ssh -T git@github.com
+
+
+初始化 git init
+添加文件 git add 文件名
+添加描述 git commit -m "内容"
+新建仓库 git remote add origin https:github.com/WolfArctic/仓库名字.git
+推送 git push -u origin master
+
+
+删除
+git clone 
+git rm test.txt(删除文件)
+git rm -r test(删除文件)
+git commit -m "delete some files"
+git push origin xxx
