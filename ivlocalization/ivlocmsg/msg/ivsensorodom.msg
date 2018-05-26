@@ -1,0 +1,13 @@
+std_msgs/Header header
+float32 angular_velocity_fl
+float32 angular_velocity_fr
+float32 angular_velocity_rl
+float32 angular_velocity_rr
+float32 velocity_fl
+float32 velocity_fr
+float32 velocity_rl
+float32 velocity_rr
+float32 velocity
+float32 yaw_rate
+bool using_actuator
+
