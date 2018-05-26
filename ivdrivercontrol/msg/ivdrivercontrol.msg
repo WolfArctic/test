@@ -1,4 +1,0 @@
-float32 targettorque
-float32 targetacc
-uint8 actuatormode
-uint8 shiftposition

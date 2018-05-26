@@ -1,2 +1,0 @@
-float32 wheelspeed_lr
-float32 wheelspeed_rr

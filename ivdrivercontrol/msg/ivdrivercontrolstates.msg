@@ -1,3 +1,0 @@
-uint8 vehicle_state
-uint8 control_mode
-uint8 emergency_stop
