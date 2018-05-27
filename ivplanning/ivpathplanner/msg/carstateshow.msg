@@ -1,9 +1,0 @@
-bool turnlightleft
-bool turnlightright
-bool headlight
-bool brakelight
-bool reversinglight
-bool doubleflashlight
-bool taillight
-bool horn
-uint8 leddisplaycmd

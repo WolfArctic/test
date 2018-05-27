@@ -1,1 +1,0 @@
-objbuffer[] objects
