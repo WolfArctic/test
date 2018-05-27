@@ -1,0 +1,9 @@
+int16 xcmean
+int16 ycmean
+float32 xmean
+float32 ymean
+float32 xgmean
+float32 ygmean
+float32 xvari
+float32 yvari
+float32 angle

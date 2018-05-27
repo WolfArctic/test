@@ -1,0 +1,16 @@
+segmentid[] segids
+int16 lanechangeorder
+bool segmentsupdateflag
+int16 currentsegbackward
+float64 distancetoroadend
+float64 distancetosegmentend
+bool leftsegvalid
+bool currentsegvalid
+bool rightsegvalid
+int16 turnlight
+int16 segproperty
+bool forwardflag
+bool segconnect
+bool lastnextsegment
+int16 lanestochange
+bool segobjavoidflag

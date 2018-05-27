@@ -1,0 +1,16 @@
+int16 id
+float32 time_interval
+uint8 steps
+predictpos[] positions
+float32 length
+float32 width
+float32 height
+mapobjcell[] cell
+float32 xvrel
+float32 yvrel
+float32 vrel
+float32 v_abs
+uint8 type
+float32 probability
+int16 state
+float32 heading
